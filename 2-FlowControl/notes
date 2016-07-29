@@ -1,0 +1,14 @@
+The if-else statements works on the boolean values !
+
+
+Boolean values are 'True' or 'False' !
+
+
+The '0' or '' or null is always False and anything other than  theseis always true.
+
+
+The condition that follows the 'if' keyword must generate a boolean value and based on the result, the block is executed !
+
+
+In the series of if-else statements only one of the statements is executed and when one is executed then rest all the elif statements
+are skipped and the program is continued with the next lines of codes! 

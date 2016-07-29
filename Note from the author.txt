@@ -1,0 +1,15 @@
+Dear all,
+
+	This is Samarth Deyagond addressing you all who have aspired to learn python using my small kit of codes which will introduce you with  different stuff that exist in python. Python is an open source and so must be our approach towards learning and teaching. I learnt python during my internship as it was acutely needed and I realized that everyone needs it. 
+
+	So, I request all of you who are using this material to edit the content for better understanding and add few more relevant examples after you explore more and share with people as many as you can. Python is one easy programming language. Scripting language rather which is interpreted.
+
+	I will broadcast another such set which will include the object oriented stuff and advanced pyhton stuff like python frameworks: Django and all along with GUI concepts and relates concepts which are still more interesting and challenging.
+
+	"Achievement is individual's hardwork but development is always a result of teamwork". My motive to prepare this is to invoke interest in you towards python so that most of you will enroll yourself for the PYCON-INDIA national level conference to conduct workshops on python modules, python frameworks or any independent developments you do keeping python as the base.
+
+	I hope that I'll get full support and contribution from each one of you in accomplishing my motive.
+
+Thank you all......
+
+Happy coding and keep on hacking!
